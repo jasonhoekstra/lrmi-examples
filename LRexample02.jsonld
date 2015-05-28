@@ -67,7 +67,7 @@
             "@type": "AlignmentObject"
         },
         {
-            "alignmentType": "teaches",
+            "alignmentType": "educationLevel",
             "educationalFramework": "ASN Education Level Vocabulary",
             "targetName": "8",
             "targetDescription": "Eighth Grade",
