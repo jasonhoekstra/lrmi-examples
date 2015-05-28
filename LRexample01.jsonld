@@ -58,6 +58,22 @@
             "targetDescription": "Continue a conversation through multiple exchanges.",
             "targetUrl": "http://www.corestandards.org/ELA-Literacy/SL/K/1/",
             "@type": "AlignmentObject"
+        },
+        {
+            "alignmentType": "teaches",
+            "educationalFramework": "Common Core State Standards for English Language Arts & Literacy in History/Social Studies, Science, and Technical Subjects",
+            "targetName": "CCSS.ELA-Literacy.SL.K.2",
+            "targetUrl": "http://www.corestandards.org/ELA-Literacy/SL/K/2/",
+            "targetDescription": "Confirm understanding of a text read aloud or information presented orally or through other media by asking and answering questions about key details and requesting clarification if something is not understood.",
+            "@type": "AlignmentObject"
+        },
+        {
+            "alignmentType": "teaches",
+            "educationalFramework": "Common Core State Standards for English Language Arts & Literacy in History/Social Studies, Science, and Technical Subjects",
+            "targetName": "CCSS.ELA-Literacy.SL.K.3",
+            "targetUrl": "http://www.corestandards.org/ELA-Literacy/SL/K/3/",
+            "taretDescription": "Ask and answer questions in order to seek help, get information, or clarify something that is not understood.",
+            "@type": "AlignmentObject"
         }
     ],
     "accessibilityControl": "fullMouseControl",
