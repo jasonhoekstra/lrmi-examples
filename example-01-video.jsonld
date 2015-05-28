@@ -1,0 +1,79 @@
+
+{
+    "@context": [
+        {
+            "url": {
+                "@type": "@id"
+            },
+            "@vocab": "http://schema.org/"
+        },
+        {
+            "lrmi": "http://purl.org/dcx/lrmi-terms/",
+            "useRightsUrl": {
+                "@id": "lrmi:useRightsUrl",
+                "@type": "@id"
+            }
+        }
+    ],
+    "@type": "CreativeWork",
+    "name": "Introduction to Exponents",
+    "url": "http://example.org/videos/introduction-to-exponents",
+    "about": [
+        "Exponents",
+        "Numerical Expressions"
+    ],
+    "dateCreated": "2015-02-07",
+    "author": [ "Jane Doe", "John Doe" ]
+    "publisher": "Example Publisher",
+    "inLanguage": "English",
+    "description": "This video explains the fundamental concepts of exponents in algebra.",
+    "educationalUse": [
+    		"Curriculum",
+    		"Instruction"
+    ],
+    "timeRequired": "PT10M30S",
+    "typicalAgeRange": [
+        "13-14",
+        "14-15"
+    ],
+    "interactivityType": "Mixed",
+    "learningResourceType": [
+        "Video",
+        "Presentation",
+        "Handout"
+    ],
+    "useRightsUrl": "http://creativecommons.org/licenses/by/3.0/",
+    "educationalRole": [ "Teacher", "Student" ],
+    "educationalAlignment": [
+        {
+            "alignmentType": "teaches",
+            "educationalFramework": "Common Core State Standards for Mathematics",
+            "targetName": "CCSS.Math.Content.8.EE.A.1",
+            "targetUrl": "http://www.corestandards.org/Math/Content/8/EE/A/1/",
+            "targetDescription": "Know and apply the properties of integer exponents to generate equivalent numerical expressions.",
+            "@type": "AlignmentObject"
+        },
+        {
+            "alignmentType": "teaches",
+            "educationalFramework": "Common Core State Standards for Mathematics",
+            "targetName": "CCSS.Math.Content.8.EE.A.2",
+            "targetDescription": "Use square root and cube root symbols to represent solutions to equations of the form x2 = p and x3 = p, where p is a positive rational number. Evaluate square roots of small perfect squares and cube roots of small perfect cubes. Know that √2 is irrational.",
+            "targetUrl": "http://www.corestandards.org/Math/Content/8/EE/A/2/",
+            "@type": "AlignmentObject"
+        },
+ 				{
+                "alignmentType": "teaches",
+                "educationalFramework": "ASN Education Level Vocabulary",
+                "targetName": "8",
+                "targetDescription": "Eighth Grade",
+                "targetUrl": "http://purl.org/ASN/scheme/ASNEducationLevel/8" ,
+                "@type": "AlignmentObject"
+        }
+    ],
+    "accessibilityControl": "fullMouseControl",
+    "accessibilityFeature": "structuralNavigation",
+    "accessibilityHazard": [
+        "noFlashingHazard",
+        "noSoundHazard"
+    ]
+}
